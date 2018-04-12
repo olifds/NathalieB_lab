@@ -7,3 +7,5 @@ Organized by Olivier Ariel
 The programs were mainly written by Jean-Simon Brouard(jean-simon.brouard@canada.ca) and Olivier Ariel(olivier.ariel@agr.gc.ca)
 
 For all inquiries please contact Olivier Ariel(olivier.ariel@agr.gc.ca) or Nathalie Bissonnette(nathalie.bissonnette@canada.ca)
+
+The focus of the laboratory is bovine genomics in the context of paratuberculosis.
